@@ -1,0 +1,22 @@
+{
+  "name": "rwd-grid",
+  "version": "1.0.0",
+  "description": "rwd-grid",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass ./scss/index.scss ./css/index.css",
+    "sass:watch": "sass ./scss/index.scss ./css/index.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalicernomschi/rwd-grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalicernomschi/rwd-grid/issues"
+  },
+  "homepage": "https://github.com/vitalicernomschi/rwd-grid#readme"
+}
